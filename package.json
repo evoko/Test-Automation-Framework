@@ -18,6 +18,10 @@
   "homepage": "https://github.com/evoko/Test-Automation-Framework#readme",
   "devDependencies": {
     "@playwright/test": "^1.61.1",
-    "@types/node": "^26.1.0"
+    "@types/node": "^26.1.0",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "otplib": "^13.4.1"
   }
 }
