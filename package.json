@@ -22,6 +22,7 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
+    "dotenv": "^17.4.2",
     "otplib": "^13.4.1"
   }
 }
