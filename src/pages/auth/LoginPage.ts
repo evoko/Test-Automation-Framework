@@ -27,6 +27,10 @@ export class LoginPage extends BasePage {
     return this.page.getByRole('button', { name: 'Login' });
   }
 
+  get nextButton() {
+    return this.page.getByRole('button', { name: 'Next' });
+  }
+
   // --- Step 2: password (TODO — confirm selector via codegen) ---
   get passwordInput() {
     return this.page.getByLabel(/password/i);
@@ -52,7 +56,7 @@ export class LoginPage extends BasePage {
 
   async enterPassword(password: string): Promise<void> {
     await this.passwordInput.fill(password);
-    await this.loginButton.click();
+    await this.nextButton.click();
   }
 
   async enterTotpCode(code: string): Promise<void> {
