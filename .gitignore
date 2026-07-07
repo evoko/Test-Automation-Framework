@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Playwright reports
+playwright-report/
+
+# Test results
+test-results/
+
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*

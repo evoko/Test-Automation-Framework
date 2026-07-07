@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "_vercel_sso_nonce",
+      "value": "269631ce3177c602f1a0025e37dbd98c2a77fb299370561d",
+      "domain": "stage.workplace.biamp.app",
+      "path": "/",
+      "expires": 1783344352.861914,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_vercel_jwt",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwYXNzd29yZC1wcm90ZWN0aW9uIiwiYXVkIjoic3RhZ2Uud29ya3BsYWNlLmJpYW1wLmFwcCIsImlhdCI6MTc4MzM0MDc1MywiaGFzaCI6IjViOTdkMzRjMzhmODQ3NTJiZDA1ODBlODUxMzk3OTMwZDI5YTJhZmU3Njc4ZWQ2NTkwN2FkYzdkZDZhYzg2ZmQifQ.RUSkmIfcaVuEcEQS-YIebDkDgIDFcZJborDIC1ogpOw",
+      "domain": "stage.workplace.biamp.app",
+      "path": "/",
+      "expires": 1791116753.154744,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-zitadel.login.csrf",
+      "value": "MTc4MzM0MDc1NXxJbE5uWjJwdVRsSlJSbEpwTVU5WWVtMXRSMmt4Tkhsb1NuQXlVemgzT1RsNk1tcFpZVVI2TlZvMFFVVTlJZ289fP8ZwLj1seiIEUXv6ZbAUmMPiA_XJiyJycngLB5yWH1-",
+      "domain": "stage.iam.workplace.biamp.app",
+      "path": "/",
+      "expires": 1783383955.353197,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mode",
+      "value": "auto-light",
+      "domain": "stage.iam.workplace.biamp.app",
+      "path": "/",
+      "expires": 1814876756,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-zitadel.useragent",
+      "value": "MTc4MzM0MDc1N3xtNzdsOERNdFBEWWE2d3BoVTV4Ri1wREZmZHd6YkJYekNVc1VHdlB6cmdrRlNzV1l1YzVvX3UybERwWmZWU01abFZnNXAwY09xUTFaNFV6dHZmSU5uUzYtVTg5azhnPT18HLgVmX1Qs57C6SRMqhDOfY4iQVmbjFNt_TuHcq_cR7A=",
+      "domain": "stage.iam.workplace.biamp.app",
+      "path": "/",
+      "expires": 1814876758.071863,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
